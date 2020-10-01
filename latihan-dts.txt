@@ -1,0 +1,4 @@
+Belajar GIT
+- membuat akun github
+- mengetahui pengoperasian dasar GIT
+- integrasi GIT

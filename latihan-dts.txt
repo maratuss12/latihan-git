@@ -1,5 +1,5 @@
 Belajar GIT
 - membuat akun github
-- mengetahui pengoperasian dasar GIT
+- mengetahui pengoperasian GIT
 - melakukan praktek git
 - integrasi GIT
